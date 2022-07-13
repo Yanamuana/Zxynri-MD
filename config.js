@@ -5,31 +5,31 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6285828764046'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6285828377610'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6285783062411'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6285783062411'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6285783062411'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
-global.github = 'https://github.com/Botynyakamu' //ganti aja pakai githubmu
-global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/' //ganti aja pakai tiktok mu
-global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
-global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
-global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '085828764046' //ganti pakai nomor dana mu
-global.pulsa = '085828764046' //ganti pakai nomor pulsa mu
-global.gopay = '085828764046' //ganti pakai nomor Gopay mu
+global.nameowner = 'ᴹᴿ᭄ Yana V6_1ঔৣ꧂'
+global.numberowner = '6285783062411' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com/Mabrur3772' //ganti pakai Instagram mu
+global.github = 'https://github.com/Yanaabrul' //ganti aja pakai githubmu
+global.tt = 'https://vt.tiktok.com/Bangyana/' //ganti aja pakai tiktok mu
+global.sc = 'https://youtu.be/lMcwJM_0rM' //jngn ganti hargai creator
+global.ss = 'https://youtu.be/3m7t4RklM' //jngn ganti hargai creator
+global.sss = 'https://youtu.be/PzUH1MCig' //jngn ganti hargai creator
+global.yt = 'https://youtube.com/channel/UvY_fIVSAaQ1n5SAylI-A'
+global.dana = '085709344807' //ganti pakai nomor dana mu
+global.pulsa = '085709344807' //ganti pakai nomor pulsa mu
+global.gopay = '085709344807' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv' //ganti pakai grup mu
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak' //ganti pakai Instagram mu
-global.saweria = 'https://saweria.co/zifabotz123' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6285787476829' //ganti jadi nomor mu
+global.namebot = '❋ཻུ۪۪YanaV6-MD⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhH5iVAv' //ganti pakai grup mu
+global.web = 'https://instagram.com/yanaabrul' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/Mabrur3772' //ganti pakai Instagram mu
+global.saweria = 'https://saweria.co/Yanabot' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/6285783062411' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -46,8 +46,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜabrul_ganscོ1꧅'
+global.wm3 = 'ᯤ Abdul 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
